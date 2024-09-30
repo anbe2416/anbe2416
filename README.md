@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**anbe2416/anbe2416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Andrea, and this is my first project.
 
-Here are some ideas to get you started:
+## About Me
+- I am a student in web development.
+- I'm a Graphic Designer and completely new to coding. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Learning
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
+
+## Projects
+- [My GitHub Pages](https://anbe2416.github.io) - This is my personal website.
+
+
