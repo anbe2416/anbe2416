@@ -3,8 +3,7 @@
 Hello! I'm Andrea, and this is my first project.
 
 ## About Me
-- I am a student in web development.
-- I'm a Graphic Designer and completely new to coding. 
+- I'm a Graphic Designer and currently studying web development. 
 
 ## What I'm Learning
 - HTML
@@ -13,6 +12,5 @@ Hello! I'm Andrea, and this is my first project.
 - Git and GitHub
 
 ## Projects
-- [My GitHub Pages](https://anbe2416.github.io) - This is my personal website.
-
+- [My GitHub Pages](https://anbe2416.github.io) 
 
